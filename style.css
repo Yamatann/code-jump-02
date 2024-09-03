@@ -135,7 +135,7 @@ footer {
 }
 
 
-@media screen and (max-width: 835px) {
+@media screen and (max-width: 834px) {
     main {
         display: flex;
         flex-direction: column;
